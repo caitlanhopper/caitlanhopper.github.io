@@ -1,0 +1,61 @@
+body
+{
+  background: url("http://media-cache-ak0.pinimg.com/736x/a7/f8/13/a7f813fd2e2dda98106f380a15f29d04.jpg");
+}
+
+header {
+  margin: 0 auto;
+  padding: 5px;
+  width: 300px;
+  border: 1px solid black;
+  background-color: teal;
+}
+
+h1
+{
+  color: pink;
+  display: block;
+}
+
+#hid {
+  color: yellow;
+}
+
+.blue-header {
+  color: blue;
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: brown;
+}
+
+a:hover {
+  color: purple;
+}
+
+a:active {
+  color: violet;
+}
+
+h6
+{
+  color: blue;
+  font-weight: bold;
+}
+
+h5, h4
+{
+  color: green;
+  border-color: yellow;
+  font-style: italic;
+}
+
+div#body
+{
+  text-align: center;
+  background-color: rgba(250, 148, 169, 0.5);
+}
